@@ -1,8 +1,10 @@
 openai
 tiktoken
 langchain
+langchain_community
 unstructured[pdf]
 sentence-transformers
 pandas
 pdf2image
+libmagic
 redisvl>=0.1.0
